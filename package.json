@@ -1,0 +1,14 @@
+{
+  "name": "retry",
+  "version": "1.0.0",
+  "description": "Super light weight library to asynchron retry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Megakuul",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
